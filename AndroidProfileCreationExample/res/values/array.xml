@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="regCentre">
+        <item>@string/centre1</item>
+    </string-array>
+    <string-array name="sponsors">
+        <item>@string/sponsor1</item>
+    </string-array>
+    <string-array name="qualification">
+        <item>@string/qualification1</item>
+        <item>@string/qualification2</item>
+        <item>@string/qualification3</item>
+    </string-array>
+    <string-array name="vehicleType">
+        <item>@string/vtype1</item>
+        <item>@string/vtype2</item>
+    </string-array>
+    <string-array name="brandType">
+        <item>@string/brand1</item>
+        <item>@string/brand2</item>
+        <item>@string/brand3</item>
+        <item>@string/brand4</item>
+    </string-array>
+    <string-array name="employmentType">
+        <item>@string/etype1</item>
+        <item>@string/etype2</item>
+        <item>@string/etype3</item>
+        <item>@string/etype4</item>
+   </string-array>
+   <string-array name="regions">
+       <item>@string/region1</item>
+       <item>@string/region2</item>
+       <item>@string/region3</item>
+       <item>@string/region4</item>
+       <item>@string/region5</item>
+   </string-array>
+   <string-array name="restPlaces">
+       <item>@string/place1</item>
+       <item>@string/place2</item>
+       <item>@string/place3</item>
+       <item>@string/place4</item>
+       <item>@string/place5</item>
+   </string-array>
+
+</resources>

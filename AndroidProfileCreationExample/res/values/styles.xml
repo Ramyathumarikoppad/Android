@@ -1,0 +1,31 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item> 
+        <item name="android:titleTextColor">@color/title</item>
+        <item name="android:textColor">@color/textcolor</item>
+        <item name="@android:id/background">
+            <shape>
+                <corners android:radious="15dip"/>
+                <gradient 
+                    android:startColor="#ff9d9e9d"
+                    android:centerColor="ff5a5d5a"
+                    android:centerY="0.75"
+                    android:endColor="#ff747674"
+                    android:angle="270"></gradient>
+            </shape>
+        </item>
+       
+    </style>
+    <!-- Application theme. -->
+   <!--  <style name="AppTheme" parent="AppBaseTheme">
+        All customizations that are NOT specific to a particular API-level can go here.
+    </style> -->
+
+</resources>
